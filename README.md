@@ -1,2 +1,4 @@
 # dotfiles
-my dot files :)
+## Tools:
+### - Yabai
+### - SKHD
