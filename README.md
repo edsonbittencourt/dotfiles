@@ -1,4 +1,4 @@
 # dotfiles
 ## Tools:
-### - Yabai
-### - SKHD
+#### - Yabai
+#### - SKHD
